@@ -4,3 +4,21 @@ h2 {
     text-align: center;
 
 }
+
+.list-of-recipes {
+    padding: 40px;
+    display: block;
+    margin: 20px auto;
+}
+
+.recipe-one {
+    background: linear-gradient(45deg, orange, red);
+}
+
+.recipe-two {
+    background: linear-gradient(45deg, pink, aquamarine);   
+}
+
+.recipe-three {
+    background: linear-gradient(45deg, brown, grey);   
+}
